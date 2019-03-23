@@ -113,9 +113,11 @@ h2{
 }
 p{
     color: black;
+    
 }
 #primario p{
     margin-top: 10px;
+    
 }
 #secundario{
     float: right;
@@ -123,8 +125,13 @@ p{
     background: url(../img/bg-area-lateral.png) repeat-x ;
 }
 h3{
-    display: inline;
+    width: 70%;
     color: brown;
+    background: url(../img/ornamento.png) no-repeat right;
+    float: left;
+    
+   
+    
 }
 #conteudoSecundario img{
     float: left;
@@ -139,7 +146,7 @@ h3{
     float: left;
 }
 #conteudoSecundario li{
-    float: left;
+   float: left;
     margin-top: 10px;
     background: url(../img/bg-linha.gif) repeat-x;
 }
